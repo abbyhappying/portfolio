@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7d349011.css",
+    "main.js": "/portfolio/static/js/main.1efc77a5.js",
+    "static/media/project2.gif": "/portfolio/static/media/project2.67d29a01bd2a7469775b.gif",
+    "static/media/project1.gif": "/portfolio/static/media/project1.1794f6fefd731c903064.gif",
+    "static/media/project3.gif": "/portfolio/static/media/project3.4223e9d407e90b710318.gif",
+    "static/media/about.jpg": "/portfolio/static/media/about.4f85541d31221fe068be.jpg",
+    "static/media/contact2.jpg": "/portfolio/static/media/contact2.a6e7f7fae954ea9ec230.jpg",
+    "static/media/header.jpg": "/portfolio/static/media/header.35fcab1d768d0f24dd1e.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.a7c70b23156d5050ff87.pdf",
+    "static/media/aws.png": "/portfolio/static/media/aws.c3a8553d2aadc3f80df7.png",
+    "static/media/node.js.png": "/portfolio/static/media/node.js.fc3bd1ec69d7a50e685a.png",
+    "static/media/MongoDB.png": "/portfolio/static/media/MongoDB.3a364684503a40b5fbb2.png",
+    "static/media/css3.png": "/portfolio/static/media/css3.19c8605d6b2861f5fbe0.png",
+    "static/media/JavaScript-Logo.png": "/portfolio/static/media/JavaScript-Logo.130c0ecd57833da6f75c.png",
+    "static/media/React_logo.png": "/portfolio/static/media/React_logo.e648a71158884495e955.png",
+    "static/media/MySQL.png": "/portfolio/static/media/MySQL.2f2132d4838335ce808e.png",
+    "static/media/html.png": "/portfolio/static/media/html.d20e2ae55c9300ffd835.png",
+    "static/media/logo.jpg": "/portfolio/static/media/logo.d8d23b1dcb6a1bf19b28.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.7d349011.css.map": "/portfolio/static/css/main.7d349011.css.map",
+    "main.1efc77a5.js.map": "/portfolio/static/js/main.1efc77a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d349011.css",
+    "static/js/main.1efc77a5.js"
+  ]
+}
