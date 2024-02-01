@@ -1,7 +1,5 @@
 import AboutImage from '../../assets/about.jpg'
 import data from './data'
-import CV from '../../assets/cv.pdf'
-import {HiDownload} from 'react-icons/hi'
 import Card from '../../components/Card'
 import './about.css'
 
