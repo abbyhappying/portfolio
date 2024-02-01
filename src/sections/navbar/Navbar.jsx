@@ -19,7 +19,6 @@ const Navbar = () => {
           }
 
         </ul>
-        <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
         <button id='theme__icon'><IoIosColorPalette/></button>
       </div>
     </nav>
