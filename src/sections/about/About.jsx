@@ -30,6 +30,7 @@ const About = () => {
                   <li>* Familiar with data analysis & cloud computing </li>
                   <li>* More than 8 years experience in data processing</li>
                 </ul>
+
             </div>
         </div>
     </section>

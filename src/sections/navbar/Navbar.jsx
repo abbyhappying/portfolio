@@ -19,6 +19,7 @@ const Navbar = () => {
           }
 
         </ul>
+
         <button id='theme__icon'><IoIosColorPalette/></button>
       </div>
     </nav>
