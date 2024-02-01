@@ -28,11 +28,10 @@ const About = () => {
                     }
                 </div>
                 <ul>
-                  <li>* 2+ years of coding experience specializing in Python, JavaScript</li>
-                  <li>* Familiar with MongoDB and SQL databases </li>
+                  <li>* 3+ years of coding experience specializing in Python, JavaScript</li>
+                  <li>* Familiar with data analysis & cloud computing </li>
                   <li>* More than 8 years experience in data processing</li>
                 </ul>
-                <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
         </div>
     </section>
