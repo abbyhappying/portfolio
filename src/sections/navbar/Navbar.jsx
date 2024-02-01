@@ -2,8 +2,7 @@ import Logo from '../../assets/logo.jpg'
 import data from './data'
 import {IoIosColorPalette} from 'react-icons/io'
 import './navbar.css'
-import CV from '../../assets/cv.pdf'
-import {HiDownload} from 'react-icons/hi'
+
 
 const Navbar = () => {
   return (
